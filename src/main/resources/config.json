@@ -1,0 +1,7 @@
+{
+  "sql-db-url": "jdbc:mysql://localhost:3306/union_reporting",
+  "tc2-tests-number": 6,
+  "author_name": "ElaraMatrix",
+  "author_login": "login",
+  "author_email": "email@email.com"
+}
